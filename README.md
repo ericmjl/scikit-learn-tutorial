@@ -16,6 +16,7 @@ Ensure that you have the following Python packages installed:
 - Python 3.5
 - `scikit-learn`
 - `biopython`
+- `jupyter` (previously known as the IPython notebook)
 
 An easy way to obtain Python, and the associated packages, is to download the Anaconda distribution [here][2].
 
