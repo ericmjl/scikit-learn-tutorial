@@ -1,0 +1,23 @@
+# scikit-learn-tutorial
+
+## Date/Time/Venue
+
+This tutorial will be held at the Broad Institute. Details:
+
+- Date: 8 Feb 2016
+- Time: 1 pm - 3 pm
+- Venue: 415 Main Street, Cambridge, MA
+- Registration on [EventBrite][1]
+
+## Pre-Tutorial Instructions
+
+Ensure that you have the following Python packages installed:
+
+- Python 3.5
+- `scikit-learn`
+- `biopython`
+
+An easy way to obtain Python, and the associated packages, is to download the Anaconda distribution [here][2].
+
+[1]: https://www.eventbrite.com/e/machine-learning-in-python-with-scikit-learn-tickets-20848443255
+[2]: https://www.continuum.io/downloads
