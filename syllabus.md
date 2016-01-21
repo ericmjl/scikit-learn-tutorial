@@ -1,20 +1,24 @@
 # Tutorial Syllabus:
 
-- Machine learning problem types
+1. Why Machine Learning?
+    - High dimensional data
+    - Large numbers of rows
+    - Complex relationship between predictor and dependent variables.
+2. Machine learning problem types
     - Supervised Learning - making predictions
         - Classification - predicting a label
         - Regression - predicting a continuous number
     - Unsupervised Learning - finding things that are similar to one another
     - scikit-learn flowchart
-- Unsupervised Learning API
+3. Unsupervised Learning API
     - Example problems & Hands-on
-- Supervised Learning API
+4. Supervised Learning API
     - Label prediction on influenza sequences
     - Prediction of HIV drug resistance
     - Hands-on
-- Statistical and computing practices
+5. Statistical and computing practices
     - Cross-validation: train/test split
     - Permutation null models.
     - Parallelization on a single computer using built-in joblib
     - Hands-on
-- (time permitting) Overview of neural network & deep learning libraries: Keras, Theano, TensorFlow.
+6 (time permitting) Overview of neural network & deep learning libraries: Keras, Theano, TensorFlow.
