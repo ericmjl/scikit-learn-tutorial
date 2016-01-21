@@ -24,8 +24,8 @@ An easy way to obtain Python, and the associated packages, is to download the An
 
 - Machine learning problem types
     - Supervised Learning - making predictions
-    - Classification - predicting a label
-    - Regression - predicting a continuous number
+        - Classification - predicting a label
+        - Regression - predicting a continuous number
     - Unsupervised Learning - finding things that are similar to one another
     - scikit-learn flowchart
 - Unsupervised Learning API
