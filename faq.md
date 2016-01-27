@@ -4,7 +4,7 @@
 
 This tutorial is about how to use the scikit-learn API to do machine learning in Python.
 
-**Q: What is this tutorial ***not*** about?**
+**Q: What is this tutorial not about?**
 
 This tutorial will not cover:
 
