@@ -20,4 +20,7 @@ In terms of background knowledge, you should be:
 1. Familiar with object-oriented programming. A toy test: Implement a `Watch` object that has a method `current_time`, which does not accept any parameters, that tells the current time.
 1. Able to read API documentation to debug and figure out how to code things.
 
-In terms of computing environment, 
+In terms of computing environment, you should follow the instructions on the [README.md][1] file.
+
+
+[1]: README.md
