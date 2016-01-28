@@ -27,6 +27,7 @@ isoelectric_points = {
     'X':7.00,  # unknown so assign neutral
     'B':6.87,  # the average of D and N
     'Z':4.35,  # the average of E and Q
+    'J':6.04,  # the average of I and L
 }
 
 def get_isoelectric_point(aa):
