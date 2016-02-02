@@ -17,9 +17,28 @@ This tutorial will not explicitly cover:
 
 In terms of background knowledge, you should be:
 
-1. Familiar with Python syntax, or at least capable of reading it. Familiarity with other scripting language's syntax is acceptable as well.
-1. Familiar with object-oriented programming. A test to see if you get OOP is to see if you can implement a `Watch` object that has a method `current_time`, which does not accept any parameters, that tells the current time. Do it in your favourite language, need not be Python. 
-1. Able to read API documentation to debug and figure out how to code things.
+*1. Familiar with Python syntax, or at least capable of reading it.* 
+
+Familiarity with other scripting language's syntax is acceptable as well. A few tests in Python are below:
+
+>(1) Provide a plausible data structure for the variables `my_fav_things` and `item` in the list comprehension: `[item['name'] for item in my_fav_things]`.
+    
+> (2) Given the code block below, what is the value of `i`?
+
+```python
+    n = 5
+    def power_overwhelming(b):
+        return b ** 5
+
+    i = power_overwhelming(n)
+```
+
+*2. Familiar with object-oriented programming (OOP).* 
+
+A test to see if you get OOP is to see if you can implement a `Watch` object that has a method `current_time`, which does not accept any parameters, that tells the current time. Do it in your favourite language, need not be Python. 
+
+*3. Able to read API documentation to debug and figure out how to code things.*
+
 
 In terms of computing environment, you should follow the instructions on the [README.md][1] file.
 
