@@ -39,6 +39,7 @@ A test to see if you get OOP is to see if you can implement a `Watch` object tha
 
 *3. Able to read API documentation to debug and figure out how to code things.*
 
+---
 
 In terms of computing environment, you should follow the instructions on the [README.md][1] file.
 
