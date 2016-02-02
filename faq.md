@@ -37,7 +37,7 @@ Familiarity with other scripting language's syntax is acceptable as well. A few 
 
 A test to see if you get OOP is to see if you can implement a `Watch` object that has a method `current_time`, which does not accept any parameters, that tells the current time. Do it in your favourite language, need not be Python. 
 
-*3. Able to read API documentation to debug and figure out how to code things.*
+*3. Able to read API documentation, and read error messages, to debug your code.*
 
 ---
 
