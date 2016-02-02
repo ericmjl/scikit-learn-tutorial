@@ -9,7 +9,7 @@
         - Classification - predicting a label
         - Regression - predicting a continuous number
     - Unsupervised Learning - finding things that are similar to one another
-    - scikit-learn flowchart
+    - `scikit-learn` flowchart
 3. Unsupervised Learning API
     - Example problems & Hands-on
 4. Supervised Learning API
