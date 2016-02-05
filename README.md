@@ -28,6 +28,10 @@ An easy way to obtain Python, and the associated packages, is to download the An
 
 Additionally, we will make use of this Github repository. Be sure to have the link handy. Having `git` is helpful, but optional.
 
+## Todo List
+
+- [ ] Make a test script to verify that the environment is setup correctly.
+
 [1]: https://www.eventbrite.com/e/machine-learning-in-python-with-scikit-learn-tickets-20848443255
 [2]: https://www.continuum.io/downloads
 [3]: mailto:ericmajinglong@gmail.com
