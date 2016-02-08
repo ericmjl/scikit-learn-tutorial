@@ -23,6 +23,7 @@ Ensure that you have the following Python packages installed:
 - `matplotlib`
 - `numpy`
 - `pandas`
+- `seaborn`
 
 An easy way to obtain Python, and the associated packages, is to download the Anaconda distribution [here][2].
 
